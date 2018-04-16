@@ -1,0 +1,7 @@
+OscarPEREZ@DESKTOP-NA6N3GG MINGW64 ~/Documents/GIT WORKS (master)
+$ git log
+commit c53ea4e1b17981eb22cc47f23474c3207cb331d6 (HEAD -> master)
+Author: oscar <correosdentro@protonmail.com>
+Date:   Mon Apr 16 11:13:28 2018 +0200
+
+    lalalalaal
